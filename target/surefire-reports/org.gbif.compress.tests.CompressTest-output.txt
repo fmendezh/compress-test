@@ -1,2 +1,0 @@
-0
-fmendez_occurrence_small.csv

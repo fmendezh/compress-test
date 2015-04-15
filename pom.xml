@@ -17,6 +17,13 @@
 
   <name>Compress test</name>
 
+  <scm>
+    <connection>scm:git:git@github.com:fmendezh/compress-tests.git</connection>
+    <url>https://github.com/fmendezh/compress-tests</url>
+    <developerConnection>scm:git:git@github.com:fmendezh/compress-tests.git</developerConnection>
+    <tag>HEAD</tag>
+  </scm>
+
   <repositories>
     <repository>
       <id>gbif-all</id>
